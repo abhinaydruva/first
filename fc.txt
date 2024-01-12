@@ -3,3 +3,4 @@ and
 adding directly after push in  github
 pushing to github
 line adding in fuck branch
+testing push will it pushes to fuck or main
